@@ -1,2 +1,2 @@
 # Minion
-C:\Blender Models\minion10
+C:\Blender Models\minion10\ss3
